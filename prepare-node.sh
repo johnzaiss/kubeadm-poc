@@ -1,4 +1,6 @@
 #!/bin/bash
+K8S_VER="1.16.15"
+archive="k8s_"$K8S_VER"_offline"
 #
 # ------ Kubeadm Binaries ------
 #
